@@ -1,4 +1,4 @@
-# 👋 Сәлем! Мен Joomcwegv
+# 👋 Hello! I'm Joomcwegv
 
 <p align="center">
   <a href="https://github.com/joomcwegv">
@@ -7,35 +7,45 @@
 </p>
 
 <p align="center">
-  💻 <b>Freelance Software Engineer</b> | 🤖 <b>Automation & Telegram Bots</b> | 🌐 <b>Web3 & Backend</b>
+  💻 <b>Freelance Software Engineer</b> | 🤖 <b>IT Automation & Bots</b> | 🌐 <b>Web3 & AI Integration</b>
 </p>
 
 ---
 
-### 🧠 Мен туралы
+### 🧠 About Me
 
-*   🎯 **Кәсіби бағытым:** Күрделі бизнес-процестерді автоматтандыру, Telegram боттарын құру және сапалы Backend/Web жүйелерін жасау.
-*   📍 **Орналасқан жерім:** Қазақстан
-*   📖 **Қазіргі фокусым:** n8n арқылы автоматтандыру, Docker/Render арқылы Deploy жасау, Web3 (NEAR) және AI (OpenRouter) интеграциялары.
-*   ⚡ **Жұмыс стилім:** Кез келген қиындықтағы жобаны басынан аяғына дейін (Full-cycle) өзім дербес алып шыға аламын.
+*   🎯 **Professional Focus:** Automating complex business processes, building multi-role Telegram/WhatsApp bots, and developing scalable backend systems.
+*   📍 **Location:** Kazakhstan
+*   📖 **Current Focus:** AI integrations (OpenRouter API, Perplexity), Web3 (NEAR, Smart Contracts, AT Protocol/Bluesky), and IT Security/Automation.
+*   ⚡ **Work Style:** I build full-cycle solutions from scratch to production-ready deployments, focusing on tools that directly increase business revenue.
 
 ---
 
-### 🛠️ Технологиялар мен Құралдар
+### 🚀 Featured Projects & Experience
+
+*   🤖 **Commercial Bots (Telegram & WhatsApp):** Developed multi-role automated delivery and order-tracking systems for real businesses (**Sairans KZ, Sandik, Papa Pizza**), including specialized interactive Cocktail bots.
+*   🔐 **IT Automation & Security:** Engineered silent deployment scripts (e.g., AnyDesk silent installation) with automated credential extraction and secure delivery via Telegram.
+*   🧠 **AI & Computer Vision:** Deployed Smart CCTV Video Analytics systems across multiple business locations (Headless mode) with real-time motion detection and Telegram alerts.
+*   🌐 **Web3 & Decentralized Web:** Experience with NEAR Protocol, Smart Contracts development, Web3 integrations, and AT Protocol (Bluesky) web implementations.
+*   📱 **System Optimization:** Debugging, optimizing, and deploying applications on ARMv7 architectures (Android 9.0 Smart TVs).
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-%46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub статистикасы
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=joomcwegv&show_icons=true&theme=radical&hide_border=true" alt="joomcwegv's GitHub stats" />
@@ -43,9 +53,9 @@
 
 ---
 
-### 📫 Менімен байланыс
+### 📫 Let's Connect
 
-*   💬 **Telegram:** [@осы_жерге_өзіңіздің_логиніңізді_жазыңыз](https://t.me/осы_жерге_өзіңіздің_логиніңізді_жазыңыз)
+*   💬 **Telegram:** [@осы_жерге_өз_логиніңізді_жазыңыз](https://t.me/осы_жерге_өз_логиніңізді_жазыңыз)
 *   📧 **Email:** сіздің@поштаңыз.com
 
-✨ *"Жақсы код — жай ғана жұмыс істеп тұрған код емес, ол бизнестің табысын арттыратын құрал."*
+✨ *"Good code doesn't just work — it acts as a tool to increase business revenue."*
