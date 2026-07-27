@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Joomcwegv
+# 👋 Hello! I'm Sergey!
 
 <p align="center">
   <a href="https://github.com/joomcwegv">
