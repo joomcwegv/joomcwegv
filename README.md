@@ -55,7 +55,7 @@
 
 ### 📫 Let's Connect
 
-*   💬 **Telegram:** [@осы_жерге_өз_логиніңізді_жазыңыз](https://t.me/осы_жерге_өз_логиніңізді_жазыңыз)
+*   💬 **Telegram:** [@осы_жерге_өз_логиніңізді_жазыңыз](https://t.me/uaiakaahi)
 *   📧 **Email:** сіздің@поштаңыз.com
 
 ✨ *"Good code doesn't just work — it acts as a tool to increase business revenue."*
